@@ -41,10 +41,7 @@
   <img src="https://visitor-badge.glitch.me/badge?page_id=vishal772-pixel.vishal772-pixel" alt="visitor badge" />
 </p>
 
-<h3 align="center" style="color: #FFFFFF;">Contribution Graph:</h3>
-<div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=vishal772-pixel&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
-</div>
+
 
 <h3 align="center" style="color: #FFFFFF;">Support Me:</h3>
 <p align="center">
