@@ -14,7 +14,7 @@ I also create **freelance tech projects (Full Stack + Web3)** at **@credarix** a
 - 🔹 Learning advanced smart contract security and protocol design from **@cyfrin**  
 - 🔹 Auditor on platforms like **Sherlock**, **Code4rena**, and **CodeHawks**  
 - 🔹 Freelance developer at **@credarix** (Full Stack & Web3 solutions)  
-- 🔹 Previously worked as a **Smart Contract Engineer** at **Positions Finance** (cross-chain lending protocol)  
+ 
 
 ---
 
