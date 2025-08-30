@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🌐 I'm currently working on **Web Development & Smart Contracts**  
+- 🌐 I'm currently working on **Web 3 & Smart Contracts**  
 - ⚡ Smart Contract Engineer (EVM + Solana)  
 - 🔍 Experienced in **Audits & Security Reviews**  
 - 🚀 Passionate about Blockchain, DeFi, and Web3 innovation  
