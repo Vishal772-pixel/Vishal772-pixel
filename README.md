@@ -9,11 +9,11 @@ I also create **freelance tech projects (Full Stack + Web3)** at **@credarix** a
 ---
 
 ## 💼 Experience & Contributions
-- 🔹 **Google Summer of Code 2025** contributor at **@openmrs**  
-- 🔹 Contributed to **@solana-labs**, building **next-gen Solana-based dApps**  
+- 🔹 **Google Summer of Code 2025** contributor at @openmrs
+- 🔹 Contributed to @solana-labs building **next-gen Solana-based dApps**  
 - 🔹 Learning advanced smart contract security and protocol design from **@cyfrin**  
 - 🔹 Auditor on platforms like **Sherlock**, **Code4rena**, and **CodeHawks**  
-- 🔹 Freelance developer at **@credarix** (Full Stack & Web3 solutions)  
+- 🔹 Freelance developer at @Credarix (Full Stack & Web3 solutions)  
  
 
 ## 📊 GitHub Stats & Tech Impact  
