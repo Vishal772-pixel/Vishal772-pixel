@@ -16,7 +16,17 @@ I also create **freelance tech projects (Full Stack + Web3)** at **@credarix** a
 - 🔹 Freelance developer at **@credarix** (Full Stack & Web3 solutions)  
  
 
----
+---## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vishal772-pixel&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github&custom_title=Vishal's+GitHub+Stats" height="180em" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishal772-pixel&theme=dark&hide_border=false" height="180em" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal772-pixel&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8&custom_title=Languages+I+Work+With" height="180em" />
+</p>
+
 
 ## 🛠 Tech Stack
 - **Smart Contracts:** Solidity (EVM), Rust (Solana, Anchor)  
@@ -26,6 +36,7 @@ I also create **freelance tech projects (Full Stack + Web3)** at **@credarix** a
 
 ---
 
+
 ## 🌐 Reach Out
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishal-tiwari-102bb4294)  
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/VishalT12094272)  
@@ -34,12 +45,6 @@ I also create **freelance tech projects (Full Stack + Web3)** at **@credarix** a
 
 ---
 
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Vishal772-pixel&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Vishal772-pixel&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal772-pixel&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
----
 
 ## 📈 Activity Graph
 [![Vishal’s github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vishal772-pixel&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
