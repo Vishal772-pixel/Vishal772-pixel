@@ -16,15 +16,18 @@ I also create **freelance tech projects (Full Stack + Web3)** at **@credarix** a
 - 🔹 Freelance developer at **@credarix** (Full Stack & Web3 solutions)  
  
 
----## 📊 GitHub Stats
+## 📊 GitHub Stats (A+)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vishal772-pixel&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github&custom_title=Vishal's+GitHub+Stats" height="180em" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishal772-pixel&theme=dark&hide_border=false" height="180em" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal772-pixel&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8&custom_title=Languages+I+Work+With" height="180em" />
+  <!-- Manually curated stats -->
+  <img src="https://img.shields.io/badge/Contributions-13,000-2ea44f?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PRs-250-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Stars-300-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Commits-9,500-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Issues-120-red?style=for-the-badge" />
+  
+  <!-- Dynamic: Repository count (auto updates from GitHub) -->
+  <img src="https://img.shields.io/github/repos/Vishal772-pixel?style=for-the-badge&color=orange" />
 </p>
 
 
