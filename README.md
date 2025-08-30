@@ -1,38 +1,47 @@
-# 💫 About Me:
-- 🌐 I'm currently working on **Web 3 & Smart Contracts**  
-- ⚡ Smart Contract Engineer (EVM + Solana)  
-- 🔍 Experienced in **Audits & Security Reviews**  
-- 🚀 Passionate about Blockchain, DeFi, and Web3 innovation  
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishal-tiwari-102bb4294) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/VishalT12094272) 
+# 👋 Hi, Welcome to my GitHub Profile!
 
-# 💻 Tech Stack:
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+I am a **Smart Contract Engineer** working on **EVM and Solana ecosystems**, with a strong focus on **security, audits, and DeFi protocols**.  
+Currently, I’m contributing to building scalable, secure blockchain applications and experimenting with next-gen AMM designs, lending protocols, and compliance infrastructure.  
 
-# 🛡️ Smart Contract & Audits:
-- ✅ Security Reviews for **EVM-based protocols** (Solidity, Foundry)  
-- ✅ Program Development & **CPI Handling in Solana (Rust, Anchor)**  
-- ✅ Gas optimization, Reentrancy protection, Invariant testing  
-- ✅ Writing secure, production-ready DeFi & dApp contracts  
+I also create **freelance tech projects (Full Stack + Web3)** at **@credarix** and I’m always open to **bounties, collaborations, and protocol design work**.  
 
-# 📊 GitHub Stats:
+---
+
+## 💼 Experience & Contributions
+- 🔹 **Google Summer of Code 2025** contributor at **@openmrs**  
+- 🔹 Contributed to **@solana-labs**, building **next-gen Solana-based dApps**  
+- 🔹 Learning advanced smart contract security and protocol design from **@cyfrin**  
+- 🔹 Auditor on platforms like **Sherlock**, **Code4rena**, and **CodeHawks**  
+- 🔹 Freelance developer at **@credarix** (Full Stack & Web3 solutions)  
+- 🔹 Previously worked as a **Smart Contract Engineer** at **Positions Finance** (cross-chain lending protocol)  
+
+---
+
+## 🛠 Tech Stack
+- **Smart Contracts:** Solidity (EVM), Rust (Solana, Anchor)  
+- **Frameworks & Tools:** Foundry, Hardhat, Anchor, TypeScript  
+- **Other Chains:** TON (Tact), Aptos/Sui (Move)  
+- **Focus Areas:** Protocol Design, Gas Optimization, Audits & Security Reviews  
+
+---
+
+## 🌐 Reach Out
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishal-tiwari-102bb4294)  
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/VishalT12094272)  
+
+💬 Open to collaborating on **protocol design, audits, DeFi experiments, bounties, or freelance Web3 projects**.  
+
+---
+
+## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=Vishal772-pixel&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Vishal772-pixel&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal772-pixel&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-# 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Vishal772-pixel&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+---
 
-# 📈 Activity Graph
+## 📈 Activity Graph
 [![Vishal’s github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vishal772-pixel&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
