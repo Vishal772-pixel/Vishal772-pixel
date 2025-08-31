@@ -1,5 +1,5 @@
 
-# 👋 Hi, Welcome to my GitHub Profile!
+# Hi, Welcome to my GitHub Profile!
 
 I am a **Smart Contract Engineer** working on **EVM and Solana ecosystems**, with a strong focus on **security, audits, and DeFi protocols**.  
 Currently, I’m contributing to building scalable, secure blockchain applications and experimenting with next-gen AMM designs, lending protocols, and compliance infrastructure.  
@@ -7,13 +7,12 @@ Currently, I’m contributing to building scalable, secure blockchain applicatio
 I also create **freelance tech projects (Full Stack + Web3)** at **@credarix** and I’m always open to **bounties, collaborations, and protocol design work**.  
 
 ---
-
-## 💼 Experience & Contributions
-- 🔹 **Google Summer of Code 2025** contributor at @openmrs
-- 🔹 Contributed to @solana-labs building **next-gen Solana-based dApps**  
-- 🔹 Learning advanced smart contract security and protocol design from **@cyfrin**  
-- 🔹 Auditor on platforms like **Sherlock**, **Code4rena**, and **CodeHawks**  
-- 🔹 Freelance developer at @Credarix (Full Stack & Web3 solutions)  
+##  Experience & Contributions
+- 🔹 **Google Summer of Code 2025** contributor at [Open mrs]
+- 🔹 Contributed to [Solana labs]  building **next-gen Solana-based dApps**  
+- 🔹 Learning advanced smart contract security and protocol design from [cyfrin updraft] 
+- 🔹 Auditor on platforms like [Sherlock], [Code4rena], and [CodeHawks]  
+- 🔹 Freelance developer at [Credarix] (Full Stack & Web3 solutions)  
  
 
 
