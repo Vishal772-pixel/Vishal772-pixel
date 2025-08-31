@@ -16,10 +16,6 @@ I also create **freelance tech projects (Full Stack + Web3)** at **@credarix** a
 - 🔹 Freelance developer at @Credarix (Full Stack & Web3 solutions)  
  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal772-pixel&theme=radical&hide_border=false&layout=compact&langs_count=10&include_all_commits=true&count_private=true" height="180px"/>
-</p>
-
 
 🔥 Solidity • Rust • TypeScript are my **primary weapons** — used daily for Smart Contract Engineering, Audits, and full-stack Web3 builds.
 
