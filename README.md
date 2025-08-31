@@ -16,43 +16,10 @@ I also create **freelance tech projects (Full Stack + Web3)** at **@credarix** a
 - 🔹 Freelance developer at @Credarix (Full Stack & Web3 solutions)  
  
 
-## 📊 GitHub Stats & Tech Impact  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vishal772-pixel&theme=radical&hide_border=false&include_all_commits=true&count_private=true" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishal772-pixel&theme=radical&hide_border=false" height="180px"/>
-</p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal772-pixel&theme=radical&hide_border=false&layout=compact&langs_count=10&include_all_commits=true&count_private=true" height="180px"/>
 </p>
 
----
-
-## 🚀 Tech Arsenal (Heavily Used)
-
-<p align="center">
-  <!-- Solidity -->
-  <img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white"/>
-  <!-- Rust -->
-  <img src="https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white"/>
-  <!-- TypeScript -->
-  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <!-- JavaScript -->
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <!-- Foundry -->
-  <img src="https://img.shields.io/badge/Foundry-%23000000.svg?style=for-the-badge&logo=foundry&logoColor=white"/>
-  <!-- Anchor -->
-  <img src="https://img.shields.io/badge/Anchor-%232671E5.svg?style=for-the-badge&logo=anchor&logoColor=white"/>
-  <!-- Node.js -->
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <!-- React -->
-  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black"/>
-  <!-- PostgreSQL -->
-  <img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</p>
-
----
 
 🔥 Solidity • Rust • TypeScript are my **primary weapons** — used daily for Smart Contract Engineering, Audits, and full-stack Web3 builds.
 
