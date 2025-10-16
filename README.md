@@ -38,7 +38,7 @@ I also create **freelance tech projects (Full Stack + Web3)** at **@credarix** a
 
 
 ## 📈 Activity Graph
-[![Vishal’s github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vishal772-pixel&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Vishal’s github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vishal772-pixel&theme=react-dark)]
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Vishal772-pixel&icon=0&color=0)](https://visitcount.itsvg.in)
